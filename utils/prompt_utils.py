@@ -75,7 +75,6 @@ Be analytical and disciplined.)
 
 Rules:
 - Do not suggest coordinating or messaging other roles.
-- Do not include extra commentary after the integer.
 - Do not restate the question.
 - Do not output JSON.
 - Do not provide multiple order options.
