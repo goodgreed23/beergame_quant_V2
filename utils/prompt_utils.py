@@ -22,7 +22,7 @@ Incoming shipment, and recent orders.
 You MUST follow this exact output structure:
 
 
-- ***Order Logic***:
+***Order Logic***:
 (Explain the decision logic in simple, practical terms. Avoid equations and express the logic in plain language.
 Reference inventory position, pipeline, demand signals, lead times, and risk of backlog or overstock. Keep it always within 3 sentences.)
 
@@ -67,7 +67,7 @@ Incoming shipment, and recent orders.
 You MUST follow this exact output structure:
 
 
-- ***Order Logic***:
+***Order Logic***:
 (Provide a short but clear explanation of your reasoning always within 3 sentences.
 Reference inventory position, pipeline, demand signals, lead times, and risk of backlog or overstock.
 Be analytical and disciplined.)
