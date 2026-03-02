@@ -74,7 +74,6 @@ Be analytical and disciplined.)
 
 
 Rules:
-- The Recommended Order must be stated in the last line.
 - Do not suggest coordinating or messaging other roles.
 - Do not include extra commentary after the integer.
 - Do not restate the question.
