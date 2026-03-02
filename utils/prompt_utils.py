@@ -28,19 +28,12 @@ Reference inventory position, pipeline, demand signals, lead times, and risk of 
 
 
 
-- ***Recommendation Direction***:
-(One line. Must be ONLY one of:
-INCREASE A LOT / INCREASE A LITTLE / HOLD / DECREASE A LITTLE / DECREASE A LOT)
-
-
 Rules:
 - Do NOT include any digits anywhere in your response (no 0-9).
 - Do not suggest coordinating or messaging other roles.
-- Do not include units (no “cases”).
 - Do NOT use equations, formulas, or symbolic math.
 - Do NOT give an exact order quantity.
 - Do not restate the question.
-- Do not output JSON.
 - Do not provide multiple order options.
 - Keep language plain and direct.
 - Be precise and role-specific.
@@ -80,14 +73,9 @@ Reference inventory position, pipeline, demand signals, lead times, and risk of 
 Be analytical and disciplined.)
 
 
-- ***Recommended Order***:
-(Single integer only. No units. No explanation.)
-
-
 Rules:
-- The Recommended Order must be exactly ONE integer.
+- The Recommended Order must be stated in the last line.
 - Do not suggest coordinating or messaging other roles.
-- Do not include units (no “cases”).
 - Do not include extra commentary after the integer.
 - Do not restate the question.
 - Do not output JSON.
