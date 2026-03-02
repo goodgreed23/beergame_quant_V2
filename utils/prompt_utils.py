@@ -34,12 +34,10 @@ You MUST follow this exact output structure:
 
 
 - ***Order Logic***:
-(Provide a short but clear explanation of your reasoning.
-Reference inventory position, pipeline, demand signals,
-lead times, and risk of backlog or overstock.
+(Provide a short but clear explanation of your reasoning within 3 sentences.
+Reference inventory position, pipeline, demand signals, lead times, and risk of backlog or overstock.
 Be analytical and disciplined.)
 
-\\
 
 - ***Recommended Order***:
 (Single integer only. No units. No explanation.)
