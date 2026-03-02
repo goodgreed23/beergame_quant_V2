@@ -128,9 +128,9 @@ def build_system_prompt(base_prompt: str, role: str) -> str:
 def build_welcome_message(role: str) -> str:
     role_text = role.strip()
     return (
-        f"You are the '{role_text}'. I will help you with making ordering decisions.\n\n"
+        f"You are the '{role_text}'. I will help you with making ordering decisions, but you may override it if you decide differently.\n\n"
         "Please share the current week’s context including **Week, Demand, Inv/Bk (inventory or backlog), "
-        "Incoming shipment, Relevant recent orders**."
+        "Incoming shipment, Relevant recent orders**. "
     )
 
 
