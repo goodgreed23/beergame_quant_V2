@@ -45,7 +45,7 @@ Rules:
 - Keep language plain and direct.
 - Be precise and role-specific.
 
-Be disciplined. Also, the user can override your recommendation, so give that as an option in the end.
+Be disciplined. Also, the user can override your recommendation.
 )
 
 """
